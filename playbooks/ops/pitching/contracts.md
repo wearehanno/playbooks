@@ -1,0 +1,7 @@
+# Contracts
+
+<h2>Business details</h2><p>We&rsquo;ll send prospective clients a link to our business details form. This is a form attached to a Google spreadsheet. Once they complete it, it will automatically create profiles for them inside [Xero](https://xero.com/) (our billing platform) and inside our other apps.&nbsp;</p><h2>The Consulting Contract</h2><p>We have a standard <em>Consulting Contract</em>, which we send out to the client from our <a href="https://www.hellosign.com/">HelloSign</a> account for e-signing. Contracts are stored in Google Drive.</p><p>The contract will be signed by the client, and one of our directors.</p><p>This Contract is purposefully broad and covers many different project types. It won&rsquo;t include any detail about the client&rsquo;s specific project. It&rsquo;s also applicable to any <em>Engagement</em> we work on together. This means that once it&rsquo;s signed, we can schedule sprints without needing to sign new contracts each time.</p><p>The contract covers basics such as:</p><ul><li>Confidentiality and non-disclosure</li><li>Legal liabilities</li><li>Billing and payment terms</li><li>Engagement terminations - if this is a sprint-based project, the Engagement can be ended by either us, or the client, giving notice before the end of a sprint week. The Engagement will then end at the end of the week.</li><li>Legal jurisdiction: our contracts are under the laws of England and Wales.</li></ul>
+
+<hr />
+
+_Last updated: Mon Nov 30 2020 12:03:12 GMT+0000 (Greenwich Mean Time)_
